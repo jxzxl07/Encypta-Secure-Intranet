@@ -1,0 +1,8 @@
+<script>start("/Users/user/Desktop/Projects/Encrypta Secure Intranet/assets/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("dashboard.png","dashboard.png",0,24675,"24.1 kB",1782383972,"25/06/2026, 11:39:32");</script>
+<script>addRow("group.png","group.png",0,11657,"11.4 kB",1782383984,"25/06/2026, 11:39:44");</script>
+<script>addRow("icon.png","icon.png",0,6890,"6.7 kB",1782383986,"25/06/2026, 11:39:46");</script>
+<script>addRow("login.png","login.png",0,841301,"822 kB",1782383988,"25/06/2026, 11:39:48");</script>
+<script>addRow("logo2.png","logo2.png",0,10544,"10.3 kB",1782383990,"25/06/2026, 11:39:50");</script>
+<script>addRow("signup.png","signup.png",0,947289,"925 kB",1782383998,"25/06/2026, 11:39:58");</script>
