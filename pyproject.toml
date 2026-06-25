@@ -1,0 +1,10 @@
+[project]
+name = "encrypta-secure-intranet"
+version = "0.1.0"
+description = "Educational encrypted LAN communication platform built with Python and PyQt5."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+[tool.compileall]
+quiet = 1
